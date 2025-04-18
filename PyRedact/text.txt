@@ -1,0 +1,13 @@
+Hello John,
+
+ Please contact me at john.doe@example.com or at 555-123-4567.
+
+Alternatively, reach out to support@example.org or call (987) 654-3210.
+
+My credit card number is 4111 1111 1111 1111.
+
+ 
+
+Thanks,
+
+Jane

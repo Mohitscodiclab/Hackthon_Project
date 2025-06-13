@@ -13,7 +13,7 @@ The Password Manager is an Android application developed in Java that allows you
 ### Installation
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/ManishDait/password-manager/releases/latest)
+    height="80">](https://github.com/Mohitscodiclab/Hackthon_Project/releases/tag/assets)
 
 ## License
 The Password Manager Android application is open-source and released under the [MIT License](LICENSE).

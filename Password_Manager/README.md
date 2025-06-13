@@ -18,7 +18,7 @@ You can install the `.apk` file manually by following the steps below:
 ### ✅ Step 1: Download the APK
 
 1. Go to the [**Releases** section](https://github.com/Mohitscodiclab/Hackthon_Project/releases/tag/assets) of this repository.
-2. Under the **Latest Release**, find the `PasswordProtector.apk` file listed under **Assets**.
+2. Under the **Latest Release**, find the `app-releaase.apk` file listed under **Assets**.
 3. Click the `.apk` file to download it to your Android device.
 
 > 💡 If you're on a PC, transfer the `.apk` file to your phone via USB, Bluetooth, or any cloud storage (Google Drive, etc.).

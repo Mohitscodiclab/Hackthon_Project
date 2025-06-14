@@ -8,6 +8,7 @@ This is a simple **Password Protector Android App** built with ❤️ to securel
 
 The Password Manager is an Android application developed in Java that allows you to securely store and manage your passwords locally on your device. This password manager ensures the privacy and security of your passwords through AES encryption and offers biometric authentication for enhanced protection.
 
+![Lockr](https://github.com/user-attachments/assets/5beb498d-3ae1-4e6b-a096-4e3860f31ff8)
 <img src="img/img1.png"></br>
 <img src="img/img2.png"></br>
 

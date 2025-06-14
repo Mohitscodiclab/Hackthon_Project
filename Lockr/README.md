@@ -1,5 +1,5 @@
 
-# 🔐 Password Protector App (Android)
+# 🔐 LOCKR a Password Protector App for (Android)
 
 This is a simple **Password Protector Android App** built with ❤️ to securely store and manage your passwords **offline** on your Android device.
 
